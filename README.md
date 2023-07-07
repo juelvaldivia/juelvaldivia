@@ -10,6 +10,6 @@
 <br></br><br></br>
 
 <p>
-  <a href="https://app.daily.dev/juelvaldivia"><img src="https://api.daily.dev/devcards/47a698b8fcce4e28a9107e40cfae0f91.png?r=749" width="400" alt="Juel Valdivia's Dev Card"/></a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juelvaldivia&show_icons=true&locale=en&layout=compact" alt="juelvaldivia" />
+  <a align="left" href="https://app.daily.dev/juelvaldivia"><img src="https://api.daily.dev/devcards/47a698b8fcce4e28a9107e40cfae0f91.png?r=749" width="200" alt="Juel Valdivia's Dev Card"/></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=juelvaldivia&show_icons=true&locale=en&layout=compact" alt="juelvaldivia" />
 </p>
