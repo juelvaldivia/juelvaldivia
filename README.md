@@ -2,14 +2,8 @@
 <h3 align="center">a passionate software developer from GDL, JAL, MEX</h3>
 
 - 🔭 I’m currently working in [100Ladrillos](https://100ladrillos.com/)
-
 - 👨‍💻 you can visit my web site [https://juelvaldivia.com](https://juelvaldivia.com)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/juelvaldivia" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="juelvaldivia" /></a></p>
-<br></br><br></br>
+![Juel's github stats](https://github-readme-stats.vercel.app/api?username=juelvaldivia&show_icons=true&theme=dracula)!
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juelvaldivia&hide=html&layout=compact)
 
-<p>
-  <a align="left" href="https://app.daily.dev/juelvaldivia"><img src="https://api.daily.dev/devcards/47a698b8fcce4e28a9107e40cfae0f91.png?r=749" width="200" alt="Juel Valdivia's Dev Card"/></a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=juelvaldivia&show_icons=true&locale=en&layout=compact" alt="juelvaldivia" />
-</p>
